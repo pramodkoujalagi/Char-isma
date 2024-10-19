@@ -12,7 +12,7 @@ Char-isma: Autoregressive Character-level Language Model.
 
 
 
-[Batch Normalization](https://arxiv.org/pdf/1502.03167) by Sergey loffe 2015 👇
+[Batch Normalization](https://arxiv.org/pdf/1502.03167) by Sergey Loffe 2015 👇
 
 
 ![image](https://github.com/user-attachments/assets/e8604b1e-36fe-45a7-b142-0ae4dd994799)
