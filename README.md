@@ -25,6 +25,8 @@
 
 * [WaveNet](https://arxiv.org/pdf/1609.03499) 2016 from DeepMind 👇
 
+     ![WaveNet](https://github.com/user-attachments/assets/be421d19-28eb-43c8-8ca0-9e95e1bc8752)
+
     ![image](https://github.com/user-attachments/assets/7122d6ba-baea-4f55-8ab4-1c924fee5c04)
-    ![image](https://github.com/user-attachments/assets/a67b6b80-54bb-4611-849f-6db635fc13c1)
+    
 
