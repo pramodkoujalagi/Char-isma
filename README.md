@@ -3,7 +3,7 @@
 ## Papers Implemented:
 1. [Bengio et al.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) 2003 MLP language model paper
 2. [Batch Normalization](https://arxiv.org/pdf/1502.03167) by Sergey Loffe 2015
-3. [WaveNet](https://arxiv.org/pdf/1609.03499) 2016 from DeepMind
+3. [WaveNet](https://arxiv.org/pdf/1609.03499) 2016 from Google DeepMind
    
    [DeepMind](https://deepmind.google/discover/blog/wavenet-a-generative-model-for-raw-audio/) blog post
 ---------------------------------------------------------------------------------------------
